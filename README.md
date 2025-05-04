@@ -24,8 +24,6 @@ For regression, Linear Regression delivers competitive results despite its simpl
 
 🚀 How to Use
 Clone this repository:
-
-bash
 ```
 git clone https://github.com/sidak706/Football-goal-difference-and-match-winner-prediction.git
 cd Football-goal-difference-and-match-winner-prediction
