@@ -8,6 +8,7 @@ Match Outcome Prediction – a classification task to determine whether the home
 We use a variety of features including team averages, playing styles, aggression, and home advantage to train machine learning models.
 
 🧠 Models Used
+
 Goal Difference Prediction:
 - Linear Regression
 - Random Forest Regressor
