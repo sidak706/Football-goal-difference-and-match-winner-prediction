@@ -11,6 +11,7 @@ We use a variety of features including team averages, playing styles, aggression
 Goal Difference Prediction:
 - Linear Regression
 - Random Forest Regressor
+- 
 Home Team Loss Prediction:
 -Logistic Regression (with PCA)
 -Support Vector Classifier (SVC) – linear & RBF kernels
