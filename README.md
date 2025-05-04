@@ -11,12 +11,12 @@ We use a variety of features including team averages, playing styles, aggression
 Goal Difference Prediction:
 - Linear Regression
 - Random Forest Regressor
-- 
+
 Home Team Loss Prediction:
--Logistic Regression (with PCA)
--Support Vector Classifier (SVC) – linear & RBF kernels
--Random Forest Classifier
--Dimensionality reduction via PCA was also explored to evaluate its impact on model performance.
+- Logistic Regression (with PCA)
+- Support Vector Classifier (SVC) – linear & RBF kernels
+- Random Forest Classifier
+- Dimensionality reduction via PCA was also explored to evaluate its impact on model performance.
 
 📈 Key Findings
 Random Forest consistently outperforms other models for classification.
